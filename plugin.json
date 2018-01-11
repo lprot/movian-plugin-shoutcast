@@ -1,0 +1,15 @@
+{
+	"description": "<p>SHOUTcast Radio - Listen to Free Online Radio Stations<p>For more information, visit <a href=\"http://www.shoutcast.com\">http://www.shoutcast.com</a>",
+	"author": "lprot",
+	"homepage": "http://github.com/lprot/movian-plugin-shoutcast",
+	"title": "SHOUTcast",
+	"synopsis": "SHOUTcast Radio - Listen to Free Online Radio Stations",
+	"version": "0.3.1",
+	"file": "shoutcast.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"id": "shoutcast",
+	"icon": "logo.png",
+	"category": "music",
+        "apiversion": 2
+}
